@@ -1,2 +1,2 @@
 # python_projects
-This repository contains python project, small games, algorithms, etc.
+This repository contains python project like small games, algorithms, etc.
